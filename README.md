@@ -41,4 +41,4 @@ I'm Pranav, a Computer science student 💻.
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-r13&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme = synthwave)](https://github.com/pranav-r13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13](https://github.com/pranav-r13/github-readme-stats)
