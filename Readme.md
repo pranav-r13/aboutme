@@ -28,4 +28,6 @@ I'm Pranav, a Computer science student 💻.
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranrav-r13&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=dark&layout=compact" width="410" /></p> -->
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-r13&show_icons=true&theme=radical)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-r13&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
