@@ -8,7 +8,7 @@ I'm Pranav, a Computer science student 💻.
 
 - :seedling: I’m currently learning Microsoft Power Platform.
 - 🧑‍💻 I'm working at Alleima India as an IT Intern
-- 🤔 I’m work out of Pune, India.
+- 🤔 I work out of Pune, India.
 
 
 🤝 &nbsp; Connect with Me
